@@ -1,0 +1,36 @@
+body{
+	background-color: #C1FFD7;
+	
+		}
+		
+		li{
+			list-style-type: none;
+			display: inline-block;
+			margin: 9px;
+			}
+			
+			.header{
+			line-height: 0.1mm;
+			}
+			
+			.header header h1{
+			display: inline-block;
+			margin-top: 5mm;
+			font-size: 35px;
+			}
+			
+			.header header h2{
+			font-size: 20px;
+			}
+			
+			footer{
+			font-size: 19px;
+			margin-top: 135mm;
+			text-align: center;
+			}
+			
+			.nav{
+			margin-left: 230mm;
+			margin-top: -16mm;
+			background-color: #;
+			}
